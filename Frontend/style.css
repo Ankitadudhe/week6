@@ -1,0 +1,52 @@
+body{
+    background-size: cover;
+    align-self: auto;
+    background: wheat;
+}
+#container
+{
+    text-align: center;
+}
+.myform
+{
+    width: 450px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+.inputvalue
+{
+    width:430px;
+    margin: 0 auto;
+    padding: 5px;
+}
+.loginbutton
+{
+margin-top: 10px;
+background-color:#2ecc71;
+padding: 5px;
+color:white;
+width: 100%;
+text-align: center;
+font-size: 18px;
+font-weight: bold;
+}
+#registerbutton
+{
+    margin-bottom: 20px;
+    margin-top: 10px;
+    background-color: #3498db;
+    padding:5px;
+    color:white;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.sign_up_button
+{
+background-color: #2ecc71;
+}
+#backbutton
+{
+    background-color:#e74c3c;
+}
